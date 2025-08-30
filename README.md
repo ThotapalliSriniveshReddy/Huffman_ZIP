@@ -29,19 +29,16 @@
 
 4.  Open the Flask server  
 
-5.  Upload the text file  
 
-    ![alt text](image.png)
-
-6. You will get the Huffman codes also packed within the encoded text document  
+5. You will get the Huffman codes also packed within the encoded text document  
 
     ![alt text](image-1.png)
     
-7. Upload The encoded text file  
+6. Upload The encoded text file  
 
     ![alt text](image-2.png)
 
-8. Boom !! You will get back the original file!  
+7. Boom !! You will get back the original file!  
 
     ![alt text](image-3.png)
 
